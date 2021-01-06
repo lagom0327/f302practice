@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lagom0327/f302practice/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lagom0327/f302practice/static/js/main.ca20ba44.chunk.js",
+    "main.js.map": "/lagom0327/f302practice/static/js/main.ca20ba44.chunk.js.map",
+    "runtime-main.js": "/lagom0327/f302practice/static/js/runtime-main.fe3b2f9c.js",
+    "runtime-main.js.map": "/lagom0327/f302practice/static/js/runtime-main.fe3b2f9c.js.map",
+    "static/js/2.00b20ad8.chunk.js": "/lagom0327/f302practice/static/js/2.00b20ad8.chunk.js",
+    "static/js/2.00b20ad8.chunk.js.map": "/lagom0327/f302practice/static/js/2.00b20ad8.chunk.js.map",
+    "index.html": "/lagom0327/f302practice/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lagom0327/f302practice/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.00b20ad8.chunk.js.LICENSE.txt": "/lagom0327/f302practice/static/js/2.00b20ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe3b2f9c.js",
+    "static/js/2.00b20ad8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ca20ba44.chunk.js"
+  ]
+}
